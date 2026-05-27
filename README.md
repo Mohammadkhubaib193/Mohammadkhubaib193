@@ -16,7 +16,7 @@
 
 ## 🎓 Education
 - Diploma in Electrical Engineering (Pursuing)  
-- Institute: *[Your University/College Name]*  
+- Institute: *[ALIGARH MUSLIM UNIVERSITY]*  
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ## 💼 Experience
-- Web Development Intern *(Details to be updated)*  
+- Web Development Intern *(engineering and environmental solutions ltd.)*  
 - Automation Training / Course Completed  
 
 ---
